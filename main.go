@@ -3,5 +3,5 @@ package pack
 import "fmt"
 
 func DoNothing() {
-	fmt.Printf("Hello from second")
+	fmt.Println("Hello from second")
 }
